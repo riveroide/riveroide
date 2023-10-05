@@ -3,7 +3,7 @@
 ### Hi 👋 I'm Nicolás Rivero, an argentinian Full Stack Developer
 
 #### Actually, I'm living in Boa Vista, Roraima (Brazil)
-###### Stack of technologies: JavaScript | React JS | Redux | Redux Toolkit | Express | Tailwind | Strapi | PostgreSQL | NextJS | HTML | CSS | Next.JS 
+###### Stack of technologies: JavaScript | C# | .NET | React JS | Redux | Redux Toolkit | Express | Tailwind | Strapi | PostgreSQL | SQL Server | NextJS | HTML | CSS | Next.JS |  
 
 
 
